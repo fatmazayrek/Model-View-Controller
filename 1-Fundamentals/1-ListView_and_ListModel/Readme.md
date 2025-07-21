@@ -1,8 +1,8 @@
-ListView uses the Model-View-Controller structure to visualize the data we have 🎦
+ListView, elimizdeki verileri görselleştirmek için Model-View-Controller yapısını kullanır 🎦
 
-In this example, I did a simple example using ListView. There is a table which shows the name and cost of the fruits 🍇
+Bu örnekte, ListView kullanarak basit bir örnek yaptım. Elimizde meyvelerin adını ve maliyetini gösteren bir tablo var 🍇
 
-In this example, I declare cost and name as role Roles provide easy access to data 🌻
+Roller, verilere kolay erişim sağlar. Bu örnekte, maliyeti ve adı rol olarak tanımladım 🌻
 
 <img width="742" height="411" alt="image" src="https://github.com/user-attachments/assets/963232d5-fc4f-4562-bb87-0f28d7dfb256" />
 
