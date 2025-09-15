@@ -1,3 +1,5 @@
+## ListView and ListModel 🧑🏻‍💻
+
 ListView, elimizdeki verileri görselleştirmek için Model-View-Controller yapısını kullanır 🎦
 
 Bu örnekte, ListView kullanarak basit bir örnek yaptım. Elimizde meyvelerin adını ve maliyetini gösteren bir tablo var 🍇
