@@ -1,3 +1,5 @@
+## Inline Models 🌼
+
 Basit görevler için inline model kullanabilirsiniz. Örneğin, Combobox'larda 🗃️
 
 Inline modelde, modeldeki verilere temel olarak modelData anahtar sözcüğünü kullanarak ulaşabilirsiniz 🔐
