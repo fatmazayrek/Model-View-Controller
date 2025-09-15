@@ -1,3 +1,5 @@
+## Dynamic Models 🚥
+
 ListView'da Dinamik Model kullanabilirsiniz 🧑🏻‍💻
 
 Bu örnekte, verileri kapsüllemek için ListModel kullanıyorum. ListModel, QAbstractListModel'den miras alır. Yani, add, remove, clear, set vb. metodları kullanabilirsiniz. 🔘
