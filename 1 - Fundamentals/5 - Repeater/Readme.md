@@ -1,3 +1,5 @@
+## Repeater 🐦‍🔥
+
 Repeater kullanarak verilerinizi listeleyebilirsiniz. Dinamik model gerekli değilse Repeater kullanabilirsiniz. Ancak, kullanılacak veri büyükse ListView kullanmanız önerilir 🧑🏻‍💻
 
 Bu örnekte, ad ve yaş bilgilerinizi gösteren bir tablo var ℹ️
