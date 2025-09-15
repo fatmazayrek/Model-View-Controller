@@ -1,3 +1,5 @@
+## Header Footer Highlight 🗽
+
 ListView'de header, footer ve highlight özellikleri bulunur. Yani isterseniz header, footer ve highlight tanımlayabilirsiniz 🕯️
 
 Bu örnekte, tablonun yeşil header, mavi footer ve gri highlight bileşenleri vardır 🚥
