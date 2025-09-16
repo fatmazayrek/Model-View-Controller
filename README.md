@@ -1,9 +1,9 @@
-Merhaba 🌼
+Hello 🌼
 
-Bu çalışmada Qt Creator ortamında QML kullanarak Model View Controller konusu üzerinde örnek uygulamalar yaptım 🎉
+In this project, I created sample applications using QML in the Qt Creator environment, focusing on Model View Controllers. 🎉
 
-Bu uygulamaları yaparken:  **Qt6 QML For Beginners: The Fundamentals/Daniel Gakwaya** Udemy kurslarını base aldım 🎦
+I used the following Udemy courses as a basis: **Qt6 QML For Beginners: The Fundamentals/Daniel Gakwaya** 🎦
 
-Her bir örnek uygulamanın Readme dosyalarına bakarak içeriklerini görebilirsiniz 🌈
+You can see the contents of each sample application by looking at the Readme files. 🌈
 
-İyi çalışmalar 🤗
+Good work 🤗
