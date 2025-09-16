@@ -1,19 +1,19 @@
 ## Dynamic Models 🚥
 
-ListView'da Dinamik Model kullanabilirsiniz 🧑🏻‍💻
+You can use a Dynamic Model in ListView 🧑🏻‍💻
 
-Bu örnekte, verileri kapsüllemek için ListModel kullanıyorum. ListModel, QAbstractListModel'den miras alır. Yani, add, remove, clear, set vb. metodları kullanabilirsiniz. 🔘
+In this example, I'm using a ListModel to encapsulate data. ListModel inherits from QAbstractListModel. This means you can use methods like add, remove, clear, set, etc. 🔘
 
-Ad ve soyadı içeren bir liste var 🧑🏻‍🦰
+I have a list with a first and last name 🧑🏻‍🦰
 
-"Ekle" Butonu: Bir kişiyi listenin sonuna ekler
+"Add" Button: Adds a person to the end of the list 💚
 
-"Çıkar" Butonu: Kişiyi listenin sonundan çıkarır
+"Remove" Button: Removes the person from the end of the list ❤️
 
-"Temizle" Butonu: Tüm listeyi temizler
+"Clear" Button: Clears the entire list 💛
 
-"Sıradakini Çıkar" Butonu: 1. Indeksteki kişiyi listeden çıkarır
+"Remove Next" Button: Removes the indexed person from the list 🔘
 
-"Editle" Butonu: 1. Indeksteki kişinin adını başka bir adla değiştirir
+"Edit" Button: Replaces the indexed person's name with another name 🧑
 
 <img width="945" height="626" alt="image" src="https://github.com/user-attachments/assets/b5aa3b0e-b19f-4606-9181-1f8c2311cfbd" />
