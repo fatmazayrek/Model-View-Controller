@@ -1,2 +1,2 @@
-ListView kullanarak, aynı özelliklere sahip öğeleri gruplayabilirsiniz 🤹
+Using ListView, you can group items with the same properties 🤹
 
